@@ -1,0 +1,29 @@
+body {
+	width:1000px;
+	position:relative;
+	font-size:12px;
+}
+
+#top {
+	width:1000px;
+	border:1px solid #f00;
+}
+
+#left {
+	width:204px;
+	border:1px solid #f00;
+	float:left;
+}
+
+#right {
+	width:796px;
+	height:auto;
+	border:1px solid #00f;
+	float:left;
+}
+
+#bottom {
+	width:1000px;
+	border:1px solid #f00;
+	clear:both;
+}
